@@ -1,6 +1,20 @@
 SPIFFS for ESP-IDF
 ==================
 
+Reinventing the wheel
+---------------------
+Loboris just contacted me to tell me about his project that does the same
+thing but it's about three weeks older than my trial, and is more advanced:
+
+https://github.com/loboris/ESP32_spiffs_example
+
+https://www.esp32.com/viewtopic.php?f=18&t=1901 (Forum)
+
+It makes sense to abandon my project and switch to his, if it indeed works better.
+
+Original README below
+---------------------
+
 Just found some bits and put them together successfully:
 
 spiffs files are from https://github.com/whitecatboard/Lua-RTOS-ESP32/tree/master/components/spiffs
